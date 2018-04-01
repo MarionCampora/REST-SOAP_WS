@@ -1,0 +1,12 @@
+D:\SI4\Semestre 2\Réseaux\TdWS\Wcf-WS\REST-SOAP_WS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\SI4\Semestre 2\Réseaux\TdWS\Wcf-WS\REST-SOAP_WS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\SI4\Semestre 2\Réseaux\TdWS\Wcf-WS\REST-SOAP_WS\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\SI4\Semestre 2\Réseaux\TdWS\Wcf-WS\REST-SOAP_WS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojResolveAssemblyReference.cache
+D:\SI4\Semestre 2\Réseaux\TdWS\Wcf-WS\REST-SOAP_WS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\SI4\Semestre 2\Réseaux\TdWS\Wcf-WS\REST-SOAP_WS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\SI4\Semestre 2\Réseaux\TdWS\Wcf-WS\REST-SOAP_WS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.Cache
+D:\SI4\Semestre 2\Réseaux\TdWS\Wcf-WS\REST-SOAP_WS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\SI4\Semestre 2\Réseaux\TdWS\Wcf-WS\REST-SOAP_WS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\SI4\Semestre 2\Réseaux\TdWS\Wcf-WS\REST-SOAP_WS\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+D:\SI4\Semestre 2\Réseaux\TdWS\Wcf-WS\REST-SOAP_WS\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.dll
+D:\SI4\Semestre 2\Réseaux\TdWS\Wcf-WS\REST-SOAP_WS\WindowsFormsApp1\bin\Debug\Newtonsoft.Json.xml
