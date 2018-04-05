@@ -1,0 +1,11 @@
+D:\SI4\Semestre 2\Réseaux\TdWS\Wcf-WS\REST-SOAP_WS\EventHost\bin\Debug\EventHost.exe.config
+D:\SI4\Semestre 2\Réseaux\TdWS\Wcf-WS\REST-SOAP_WS\EventHost\bin\Debug\EventHost.exe
+D:\SI4\Semestre 2\Réseaux\TdWS\Wcf-WS\REST-SOAP_WS\EventHost\bin\Debug\EventHost.pdb
+D:\SI4\Semestre 2\Réseaux\TdWS\Wcf-WS\REST-SOAP_WS\EventHost\bin\Debug\Wcf-WS.dll
+D:\SI4\Semestre 2\Réseaux\TdWS\Wcf-WS\REST-SOAP_WS\EventHost\bin\Debug\Newtonsoft.Json.dll
+D:\SI4\Semestre 2\Réseaux\TdWS\Wcf-WS\REST-SOAP_WS\EventHost\bin\Debug\Wcf-WS.pdb
+D:\SI4\Semestre 2\Réseaux\TdWS\Wcf-WS\REST-SOAP_WS\EventHost\bin\Debug\Newtonsoft.Json.xml
+D:\SI4\Semestre 2\Réseaux\TdWS\Wcf-WS\REST-SOAP_WS\EventHost\obj\Debug\EventHost.csprojResolveAssemblyReference.cache
+D:\SI4\Semestre 2\Réseaux\TdWS\Wcf-WS\REST-SOAP_WS\EventHost\obj\Debug\EventHost.csproj.CoreCompileInputs.cache
+D:\SI4\Semestre 2\Réseaux\TdWS\Wcf-WS\REST-SOAP_WS\EventHost\obj\Debug\EventHost.exe
+D:\SI4\Semestre 2\Réseaux\TdWS\Wcf-WS\REST-SOAP_WS\EventHost\obj\Debug\EventHost.pdb
