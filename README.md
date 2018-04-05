@@ -29,3 +29,6 @@ Ouvrir Wcf-WS.sln avec Visual studio.
 2. Exécuter la commande svcutil.exe http://localhost:8733/Design_Time_Addresses/Wcf_WS/Service1/?wsdl
 3. Copier coller le fichier Service.cs résultant de cette exécution dans les classes Service.cs de WindowsFormsApp1 et ConsoleApp1
 4. Ajouter maxReceivedMessageSize="655360" dans la balise binding du fichier outpout.config, puis le copier coller dans les fichiers App.config de WindowsFormsApp1 et ConsoleApp1
+
+### Events
+1. Pour démarrer, il faut définir ConsoleApp1 et EvenHost comme projet de démarrage, puis lancer le projet.

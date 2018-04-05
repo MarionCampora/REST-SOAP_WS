@@ -18,7 +18,7 @@ namespace ConsoleApp1
             string ville = "Toulouse";
             string station = "FEUGA";
 
-            objClient.GetBike(ville,station);
+            objClient.GetBike(station, ville);
 
             Console.ReadLine();
 
